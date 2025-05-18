@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.ai_nutri_coach.app-mergeReleaseResources-39:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/berkeseker/.gradle/caches/8.10.2/transforms/89bb887b47984212ea06b6247b94e176/transformed/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
