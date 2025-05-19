@@ -69,9 +69,8 @@ NutriAI is a mobile app that provides **AI-powered personalized nutrition sugges
 
 ### 📱 Screenshots
 
-| Chat | Profile | Stats |
-|------|---------|-------|
-| ![chat](assets/chat_screen.png) | ![profile](assets/profile_screen.png) | ![stats](assets/stats_chart.png) |
+![image](https://github.com/user-attachments/assets/9040418f-5e1f-4190-9969-7545ac4b87fa)  ![image](https://github.com/user-attachments/assets/88c6471a-2cc1-4451-9c1b-5444b858e875)
+![image](https://github.com/user-attachments/assets/655eada4-8e78-406e-90fa-3a4bec8d4ab8)  
 
 ### 🛠️ Tech Stack
 
